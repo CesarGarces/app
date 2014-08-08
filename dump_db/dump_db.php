@@ -8,10 +8,10 @@ Copyright 2014 © Cesar Garces
 
 	//  Conexión con la Base de Datos.
 	/*
-	$db_server			= "localhost"; 
-	$db_name			= "livianos_livianos"; 
-	$db_username		= "livianos_zalaz"; 
-	$db_password		= "71375931"; 
+	$db_server			= ""; 
+	$db_name			= ""; 
+	$db_username		= ""; 
+	$db_password		= ""; 
 	*/
 	$db_server			= "localhost"; 
 	$db_name			= "livianos"; 

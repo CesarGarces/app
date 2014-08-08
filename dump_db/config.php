@@ -12,9 +12,9 @@ class Connection{
 		
 		//Iniciar las variables con los datos de la base de datos
 		$this->server = 'localhost';
-		$this->userdb = 'livianos_zalaz';
-		$this->passdb = '71375931';
-		$this->dbname = 'livianos_livianos';
+		$this->userdb = 'root';
+		$this->passdb = '';
+		$this->dbname = 'livianos';
 		/*
 		$this->server = 'localhost';
 		$this->userdb = 'root';
